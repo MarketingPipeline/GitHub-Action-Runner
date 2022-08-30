@@ -80,7 +80,7 @@ https://api.github.com/repos/USERNAME/REPO_NAME/actions/workflows/WORKFLOW_ID/di
 
 
 
-function make200request(url) {
+function makeGitHubrequest(url) {
   return getRequest(`https://api.github.com/repos/${github_username.value}/${repo_name.value}/actions/workflows`)
 }
 

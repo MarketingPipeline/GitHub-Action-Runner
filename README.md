@@ -1,7 +1,7 @@
 # GitHub-Action-Runner 
 
 <a href="https://github.com/MarketingPipeline/GitHub-Action-Runner/">
-<img height=350 alt="Trigger GitHub Workflows On Your Own Website" src="https://capsule-render.vercel.app/api?type=waving&color=c4a2bd&height=300&section=header&text=GitHub%20Workflow%20Runner&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Trigger%20GitHub%20Workflows%20On%20Your%20Own%20Website!&descAlignY=60&descAlign=50"></img></a>
+<img height=350 alt="Trigger GitHub Actions / Workflows On Your Own Website" src="https://capsule-render.vercel.app/api?type=waving&color=c4a2bd&height=300&section=header&text=GitHub%20Action%20Runner&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Trigger%20GitHub%20Actions%20On%20Your%20Own%20Website!&descAlignY=60&descAlign=50"></img></a>
 
 <div align="center">
 
